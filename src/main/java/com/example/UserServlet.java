@@ -6,7 +6,7 @@ import java.io.*;
 import java.sql.*;
 
 public class UserServlet extends HttpServlet {
-    private static final String JDBC_URL = "jdbc:mysql://localhost:3306/klp";
+    private static final String JDBC_URL = "jdbc:mysql://localhost:3306/KLP";
     private static final String JDBC_USERNAME = "root";
     private static final String JDBC_PASSWORD = "Kanishetti@16";
 
